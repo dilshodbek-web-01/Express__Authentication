@@ -1,0 +1,30 @@
+[
+    {
+        "id": "85e076ab-395f-4095-9da3-44fea0c15a71",
+        "name": "cherry",
+        "color": "red",
+        "price": "7000",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "a10a7d74-7b20-4266-813e-be8a8b13c241",
+        "name": "peach",
+        "color": "yellow",
+        "price": "15000",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "67c29a36-0059-459d-be73-baa01a2fff51",
+        "name": "apple",
+        "color": "red",
+        "price": "5000",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "8b42e300-51b9-4ae7-a9c5-118a8b210a84",
+        "name": "strawberry",
+        "color": "red",
+        "price": "5000",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    }
+]

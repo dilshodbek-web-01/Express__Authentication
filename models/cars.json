@@ -1,0 +1,23 @@
+[
+  {
+    "id": "c9218203-e3de-459f-90b6-fb36c1b72abe",
+    "name": "Cobalt",
+    "color": "white",
+    "price": "10000$",
+    "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+  },
+  {
+    "id": "f4631e18-5004-4b88-ae8d-54437e7826c8",
+    "name": "Malibu",
+    "color": "white",
+    "price": "35000$",
+    "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+  },
+  {
+    "id": "5b45e465-c09d-4513-9e12-137ced150c1d",
+    "name": "Tracker",
+    "color": "white",
+    "price": "17000$",
+    "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+  }
+]

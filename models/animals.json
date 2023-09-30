@@ -1,0 +1,23 @@
+[
+    {
+        "id": "d6f81ce4-8ff2-4af4-a0ec-fac1c0a90730",
+        "name": "tiger",
+        "type": "wild",
+        "color": "white-black",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "bb0610f5-a01a-470f-be69-6d695f820146",
+        "name": "rabbit",
+        "type": "not-wild",
+        "color": "white-black",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "395d00c4-d42d-4be0-9063-c563dd23df26",
+        "name": "bear",
+        "type": "wild",
+        "color": "brown",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    }
+]

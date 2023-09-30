@@ -1,0 +1,50 @@
+[
+    {
+        "id": "ae919d62-2c40-46e0-988d-e360ee944af3",
+        "title": "React",
+        "price": "800000",
+        "user_id": "85154edb-39fc-4593-89d5-5f24368f230c"
+    },
+    {
+        "id": "06da6278-826b-478a-b8f9-1848686538c9",
+        "title": "Vue",
+        "price": "120000",
+        "user_id": "85154edb-39fc-4593-89d5-5f24368f230c"
+    },
+    {
+        "id": "8a26c541-7b04-4abe-87c1-e9148b66d672",
+        "title": "Angular",
+        "price": "120000",
+        "user_id": "85154edb-39fc-4593-89d5-5f24368f230c"
+    },
+    {
+        "id": "d5617000-a4d6-45d3-95bf-ea2633dae154",
+        "title": "C##",
+        "price": "120000",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "7bd9023c-c81a-411d-b3b1-8be90a684a7c",
+        "title": "Java",
+        "price": "120000",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "f4371484-b4ae-42fd-ab62-d66a28a05eca",
+        "title": "Java-Script",
+        "price": "120000",
+        "user_id": "81803a75-a131-47a4-8542-4c947f3e64f6"
+    },
+    {
+        "id": "c90f8d33-1a76-49c7-a2e3-82827013bd4f",
+        "title": ".NET",
+        "price": "150000",
+        "user_id": "85154edb-39fc-4593-89d5-5f24368f230c"
+    },
+    {
+        "id": "550a1e3d-b730-47b7-8092-0334c1a71221",
+        "title": "Python",
+        "price": "154000",
+        "user_id": "85154edb-39fc-4593-89d5-5f24368f230c"
+    }
+]

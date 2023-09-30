@@ -1,0 +1,32 @@
+[
+    {
+        "id": "81803a75-a131-47a4-8542-4c947f3e64f6",
+        "username": "Dilshodbek",
+        "email": "Dilshodbek@gmail.com",
+        "password": "$2a$12$..IG5UPGTO1fTa9xnFjGduTDpUVvQpPIUdSXH1k5EwiDWDSDVf0Fq"
+    },
+    {
+        "id": "85154edb-39fc-4593-89d5-5f24368f230c",
+        "username": "Lochinbek",
+        "email": "Lochinbek@gmail.com",
+        "password": "$2a$12$878MNxXc37tepL4PPZ7KAeL/wB3dOZ5Zo35PWf4KxOLkRNcyzwlWq"
+    },
+    {
+        "id": "c88a027f-f6d3-460c-9de3-94611fc9ee9e",
+        "username": "Ismoil",
+        "email": "Ismoil@gmail.com",
+        "password": "$2a$12$GM940GLG0a0dd4VNzYkWiOjqNakofwzMhwmVEtM1/NdRLA546SLdy"
+    },
+    {
+        "id": "d14facd8-042e-4b7a-9e04-3fc24af3c59d",
+        "username": "kamolbek",
+        "email": "kamolbek@gmail.com",
+        "password": "$2a$12$R2vtJuZgxxUXfZvVQYAGvOnoYEMDrt7vjGJfsiN3iVrtT1M8W5zSW"
+    },
+    {
+        "id": "f6eadd63-a388-41b9-8f6f-4c4df91b5baa",
+        "username": "kimdir",
+        "email": "kimdir@gmail.com",
+        "password": "$2a$12$C/LGmHT.LplGqBGDdo4ph.JwzbRLi5zNeu/PyN6Pl0S2roM0GbQJu"
+    }
+]
